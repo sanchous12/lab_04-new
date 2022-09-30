@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1654513243 source:c:\users\asus\desktop\lab03\lab03\main.cpp
+	<sstream>
+	<string>
+	<iostream>
+	<vector>
+	<windows.h>
+	<curl/curl.h>
+	"histogram.h"
+	"svg.h"
+
+1654444195 c:\users\asus\desktop\lab03\lab03\histogram.h
+	<iostream>
+	<vector>
+
+1653486078 source:c:\users\asus\desktop\lab03\lab03\histogram.cpp
+	<vector>
+	"histogram.h"
+
+1653463861 c:\users\asus\desktop\lab03\lab03\svg.h
+	<iostream>
+	<vector>
+	<string>
+
+1654513243 source:c:\users\asus\desktop\lab03\lab03\svg.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	"svg.h"
+	<sstream>
+	<windows.h>
+	<cstdio>
+
+1652071940 c:\users\asus\desktop\lab03\lab03\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"header.h"
+	"typecheck-gcc.h"
+
+1652239120 c:\users\asus\desktop\lab03\lab03\curl\include\curl\curlver.h
+
+1652071940 c:\users\asus\desktop\lab03\lab03\curl\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1652071940 c:\users\asus\desktop\lab03\lab03\curl\include\curl\easy.h
+
+1652071940 c:\users\asus\desktop\lab03\lab03\curl\include\curl\multi.h
+	"curl.h"
+
+1652071940 c:\users\asus\desktop\lab03\lab03\curl\include\curl\urlapi.h
+	"curl.h"
+
+1652071940 c:\users\asus\desktop\lab03\lab03\curl\include\curl\options.h
+
+1652076210 c:\users\asus\desktop\lab03\lab03\curl\include\curl\header.h
+
+1652071940 c:\users\asus\desktop\lab03\lab03\curl\include\curl\typecheck-gcc.h
+
+1653486078 source:e:\лабы\lab-04 (1) (3)\histogram.cpp
+	<vector>
+	"histogram.h"
+
+1654444195 e:\лабы\lab-04 (1) (3)\histogram.h
+	<iostream>
+	<vector>
+
+1654524047 source:e:\лабы\lab-04 (1) (3)\main.cpp
+	<sstream>
+	<string>
+	<iostream>
+	<vector>
+	<windows.h>
+	<curl/curl.h>
+	"histogram.h"
+	"svg.h"
+
+1652071940 e:\лабы\lab-04 (1) (3)\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"header.h"
+	"typecheck-gcc.h"
+
+1652239120 e:\лабы\lab-04 (1) (3)\curl\include\curl\curlver.h
+
+1652071940 e:\лабы\lab-04 (1) (3)\curl\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1652071940 e:\лабы\lab-04 (1) (3)\curl\include\curl\easy.h
+
+1652071940 e:\лабы\lab-04 (1) (3)\curl\include\curl\multi.h
+	"curl.h"
+
+1652071940 e:\лабы\lab-04 (1) (3)\curl\include\curl\urlapi.h
+	"curl.h"
+
+1652071940 e:\лабы\lab-04 (1) (3)\curl\include\curl\options.h
+
+1652076210 e:\лабы\lab-04 (1) (3)\curl\include\curl\header.h
+
+1652071940 e:\лабы\lab-04 (1) (3)\curl\include\curl\typecheck-gcc.h
+
+1653463861 e:\лабы\lab-04 (1) (3)\svg.h
+	<iostream>
+	<vector>
+	<string>
+
+1664491616 source:e:\лабы\lab-04 (1) (3)\svg.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	"svg.h"
+	<sstream>
+	<windows.h>
+	<cstdio>
+
